@@ -15,19 +15,17 @@ This project focuses on **precise magnet alignment**, **repeatable magnet-to-sen
 * Prevents magnet rotation, drift, or axial misalignment
 * Fully **3D printable** on common FDM printers
 * No specialized hardware required
-* Modular design for easy remixing and adaptation
 
 ---
 
 ## 🕹️ Intended Use Cases
 
 * Hall effect joystick assemblies
-* Hall effect trigger mechanisms
 * Custom game controllers
 * Controller mods and replacements for potentiometer-based designs
 * Experimental or prototyping input devices
 
-This design is intended to replace or augment traditional potentiometer systems with **contactless magnetic sensing** for improved longevity and consistency.
+This design is intended to help replace or augment traditional potentiometer systems with **contactless magnetic sensing** for improved longevity and consistency.
 
 ---
 
@@ -41,11 +39,6 @@ This design is intended to replace or augment traditional potentiometer systems 
 
 Using a different magnet size or grade will affect sensor output and may require design changes.
 
-### Polarity
-
-* Ensure **consistent magnet polarity orientation** across builds
-* Reversed polarity will invert Hall sensor output
-* Mark magnet poles before installation if building multiple units
 
 ---
 
@@ -60,13 +53,13 @@ Using a different magnet size or grade will affect sensor output and may require
 ### Print Settings (Suggested)
 
 * Layer height: 0.2 mm
-* Infill: 20–40%
-* Walls: 3–4 perimeters
-* Supports: Not required (unless noted per part)
+* Infill: Default
+* Walls: Default
+* Supports: Not required 
 
 ### Tolerances
 
-* Designed for **press-fit or adhesive mounting**
+* Designed for **press-fit**
 * Light sanding may be required depending on printer calibration
 
 ---
@@ -74,10 +67,10 @@ Using a different magnet size or grade will affect sensor output and may require
 ## 🔧 Assembly
 
 1. Verify magnet polarity before installation
-2. Press-fit or glue the D12 N52 magnet into the mount
+2. Press-fit the D12 N52 magnet into the controller
 3. Ensure the magnet seats fully and squarely
-4. Mount the bracket relative to the Hall sensor
-5. Verify sensor output before final installation
+4. Mount the bracket relative to the Stick box
+5. Verify Bracket if fully seated and flush
 
 ⚠️ **Warning:** N52 magnets are extremely strong. Handle with care to avoid pinching or cracking printed parts.
 
@@ -90,10 +83,10 @@ This project is intentionally designed to be **hackable and mod-friendly**.
 You are encouraged to:
 
 * Modify spacing for different Hall sensors
-* Adapt the bracket to different controller shells
+* Adapt the bracket to different controller types
 * Integrate the mount into larger assemblies
 
-If you make improvements, consider sharing them back with the community.
+If you make improvements, please follow the license.
 
 ---
 
@@ -141,5 +134,5 @@ This project is provided **as-is**. Use at your own risk. Strong magnets can cau
 
 ---
 
-© 2025 Jesse Wray
+© 2025 beta buttons
 
