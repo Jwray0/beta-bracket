@@ -72,7 +72,6 @@ Using a different magnet size or grade will affect sensor output and may require
 4. Mount the bracket relative to the Stick box
 5. Verify Bracket if fully seated and flush
 
-⚠️ **Warning:** N52 magnets are extremely strong. Handle with care to avoid pinching or cracking printed parts.
 
 ---
 
