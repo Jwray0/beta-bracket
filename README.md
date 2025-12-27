@@ -39,6 +39,8 @@ This design is intended to help replace or augment traditional potentiometer sys
 
 Using a different magnet size or grade will affect sensor output and may require design changes.
 
+D12-N52 magnets can be bought from K&J Magnetics
+https://www.kjmagnetics.com/d12-n52-neodymium-cylinder-magnet
 
 ---
 
