@@ -12,7 +12,7 @@ This project focuses on **precise magnet alignment**, **repeatable magnet-to-sen
 * Designed specifically for **Ø12 mm N52 neodymium magnets (D12N52)**
 * Optimized for **Hall effect sensors** used in controllers
 * Maintains consistent and repeatable **magnet-to-sensor spacing**
-* Prevents magnet rotation, drift, or axial misalignment
+* Prevents unwanted magnet rotation, drift, or axial misalignment
 * Fully **3D printable** on common FDM printers
 * No specialized hardware required
 
@@ -39,8 +39,6 @@ This design is intended to help replace or augment traditional potentiometer sys
 
 Using a different magnet size or grade will affect sensor output and may require design changes.
 
-D12-N52 magnets can be bought from K&J Magnetics
-https://www.kjmagnetics.com/d12-n52-neodymium-cylinder-magnet
 
 ---
 
@@ -48,9 +46,10 @@ https://www.kjmagnetics.com/d12-n52-neodymium-cylinder-magnet
 
 ### Recommended Materials
 
-* **PLA** – easiest to print, sufficient for most controller use
+* **PLA/PLA-CF** – easiest to print, sufficient for most controller use
 * **PETG** – better heat resistance and durability
-* **ABS** – optional, requires enclosure
+* **ABS/ABS-GF** – optional, requires enclosure
+
 
 ### Print Settings (Suggested)
 
@@ -69,9 +68,9 @@ https://www.kjmagnetics.com/d12-n52-neodymium-cylinder-magnet
 ## 🔧 Assembly
 
 1. Verify magnet polarity before installation
-2. Press-fit the D12 N52 magnet into the controller
-3. Ensure the magnet seats fully and squarely
-4. Mount the bracket relative to the Stick box
+2. Press-fit the D12 N52 magnet into the mount
+3. Ensure the magnet mount is seated fully and squarely to Stick box
+4. Mount the bracket relative to the Stick box covering the mount
 5. Verify Bracket if fully seated and flush
 
 
@@ -79,7 +78,7 @@ https://www.kjmagnetics.com/d12-n52-neodymium-cylinder-magnet
 
 ## 🔄 Customization & Remixing
 
-This project is intentionally designed to be **hackable and mod-friendly**.
+This project is intentionally designed to be **mod-friendly**.
 
 You are encouraged to:
 
