@@ -71,7 +71,7 @@ Using a different magnet size or grade will affect sensor output and may require
 
 1. Verify magnet polarity before installation
 2. Press-fit the D12 N52 magnet into the mount
-3. Ensure the magnet mount is seated fully and squarely to Stick box
+3. Ensure the magnet mount is seated fully and squarely to Stick box arm
 4. Mount the bracket relative to the Stick box covering the mount
 5. Verify Bracket if fully seated and flush
 
