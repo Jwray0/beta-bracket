@@ -7,7 +7,7 @@ This project focuses on **precise magnet alignment**, **repeatable magnet-to-sen
 
 ---
 
-## ✨ Features
+##  Features
 
 * Designed specifically for **Ø12 mm N52 neodymium magnets (D12N52)**
 * Optimized for **Hall effect sensors** used in controllers
@@ -18,7 +18,7 @@ This project focuses on **precise magnet alignment**, **repeatable magnet-to-sen
 
 ---
 
-## 🕹️ Intended Use Cases
+##  Intended Use Cases
 
 * Hall effect joystick assemblies
 * Custom game controllers
@@ -29,7 +29,7 @@ This design is intended to help replace or augment traditional potentiometer sys
 
 ---
 
-## 🧲 Magnet & Sensor Notes
+##  Magnet & Sensor Notes
 
 ### Magnet Specification
 
@@ -44,7 +44,7 @@ Using a different magnet size or grade will affect sensor output and may require
 
 ---
 
-## 🖨️ 3D Printing Guidelines
+##  3D Printing Guidelines
 
 ### Recommended Materials
 
@@ -67,7 +67,7 @@ Using a different magnet size or grade will affect sensor output and may require
 
 ---
 
-## 🔧 Assembly
+##  Assembly
 
 1. Verify magnet polarity before installation
 2. Press-fit the D12 N52 magnet into the mount
@@ -78,7 +78,7 @@ Using a different magnet size or grade will affect sensor output and may require
 
 ---
 
-## 🔄 Customization & Remixing
+##  Customization & Remixing
 
 This project is intentionally designed to be **mod-friendly**.
 
@@ -92,7 +92,7 @@ If you make improvements, please follow the license.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the:
 
@@ -109,7 +109,7 @@ See the `LICENSE` file for full terms.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome.
 
@@ -124,13 +124,13 @@ Please include clear descriptions and, when possible, photos or diagrams.
 
 ---
 
-## 📷 Media
+##  Media
 
 If you use this project in a build, consider sharing photos or videos in the repository issues or discussions.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is provided **as-is**. Use at your own risk. Strong magnets can cause injury or damage if mishandled.
 
